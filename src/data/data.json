@@ -1,0 +1,80 @@
+{
+  "profiles":[
+    {
+      "basics":{
+        "name":"Sowmya Korada",
+        "gender":"female",
+        "role":"student",
+        "email":"sowmyakorada2000@gmail.com",
+        "mobile":"+91 7xxxxxxxx",
+        "address":"Visakhapatnam,Andhrapradesh"
+      },
+      "summary":[
+        "To work in a learning and challenging environment where I can utilizemy skills and knowledge to the best of my abilities and contribute positively  to my personal growth as well as the growth of the organization",
+        "Having knowledge on frontend technologies lije HTML%,CSS and JavaScript",
+        "Having knowledge on libraries like React,jQuery"
+      ],
+      "education":[
+        {
+          "degree":"B.tech(computer science and engineering)",
+          "institute":"Andhra University",
+          "result":"88%"
+          },
+       {
+         "degree":"Intermediate",
+         "institute":"Sri Chaitanya Junior College",
+         "result":"97%"
+         },
+      {
+          "degree":"10Th",
+          "institute":"De Paul School",
+          "result":"88%"
+         }
+      ],
+      "skills":[
+        "C","C++","Python","HTML","CSS","JavaScript"
+      ],
+      "hobbies":[
+        "chess","badminton","pencil sketching","Art and Design"
+      ]
+    },
+    {
+      "basics":{
+        "name":"Rakesh Korada",
+        "gender":"male",
+        "role":"student",
+        "email":"rakeshkorada2000@gmail.com",
+        "mobile":"+91 7xxxxxxxx",
+        "address":"Visakhapatnam,Andhrapradesh"
+      },
+      "summary":[
+        "To work in a learning and challenging environment where I can utilize  my skills and knowledge to the best of my abilities and contribute positivelyto my personal growth as well as the growth of the organization",
+        "Having knowledge on frontend technologies lije HTML%,CSS and JavaScript",
+        "Having knowledge on libraries like React,jQuery"
+      ],
+      "education":[
+        {
+          "degree":"B.tech(computer science and engineering)",
+          "institute":"Andhra University",
+          "result":"88%"
+          },
+       {
+         "degree":"Intermediate",
+         "institute":"Sri Chaitanya Junior College",
+         "result":"97%"
+         },
+      {
+          "degree":"10Th",
+          "institute":"De Paul School",
+          "result":"88%"
+         }
+      ],
+      "skills":[
+        "C","C++","Python","HTML","CSS","JavaScript"
+      ],
+      "hobbies":[
+        "chess","badminton","pencil sketching","Art and Design"
+      ]
+    }
+  ]
+}
